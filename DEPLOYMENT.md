@@ -27,7 +27,7 @@ Run the check from your own machine, not from the instance. Paste the command an
 response.
 
 ```
-- jayyi@Jay-Yips-MacBook-Pro f26-lab04 % curl http://ec2-34-207-78-8.compute-1.amazonaws.com:8080/api/health
+curl http://ec2-34-207-78-8.compute-1.amazonaws.com:8080/api/health
 {"status":"ok"}                     
 ```
 
