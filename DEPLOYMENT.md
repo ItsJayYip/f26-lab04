@@ -9,11 +9,11 @@ file with you at recitation.
 describe-stacks prints them, for the healthy deploy and for scenario 2. Both
 change on every recreate, and you will need them for curls and sessions. -->
 
-# First Print: 
+### First Print: 
 InstanceId - i-0b8cce31ad91417ed                                   
 ServiceUrl - http://ec2-34-207-78-8.compute-1.amazonaws.com:8080  
 
-# Second Print:
+### Second Print:
 InstanceId - i-0ede858abca6fae3b                                    
 ServiceUrl - http://ec2-54-92-206-27.compute-1.amazonaws.com:8080  
 
